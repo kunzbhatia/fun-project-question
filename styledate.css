@@ -30,7 +30,8 @@ body{
     color: white;
     text-align: center;
     margin-top: 20px;
-    margin-left: 20px;
+    margin-left: 50px;
+    display: flex;
 }
 
 .buttons{
@@ -55,4 +56,5 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
+    margin-left: 60px;
 }
